@@ -1,0 +1,9 @@
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\bin\Debug\PG2.Cv03.exe
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\bin\Debug\PG2.Cv03.pdb
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.csproj.AssemblyReference.cache
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.Form1.resources
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.Properties.Resources.resources
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.csproj.GenerateResource.cache
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.csproj.CoreCompileInputs.cache
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.exe
+C:\Users\tutko\Desktop\1LS\Počítačová grafika (2)\programovanie\PG2.Cv03.JT\PG2.Cv03\obj\x86\Debug\PG2.Cv03.pdb
