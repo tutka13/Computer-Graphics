@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using PG2.Mathematics;
+using PG2.Lighting;
+
+namespace PG2.Shading
+{
+    public class Shader
+    {
+        #region Shading
+
+        // Each shader should return the color of the hitpoint with the hitpoint normal, in current lighting conditions
+        public virtual Vector3 GetColor(Vector3 point, Vector3 normal, Vector3 viewDir, Vector3 lightDir, Light light)
+        {
+            return Vector3.Zero;
+        }
+
+        public virtual Vector3 GetAmbientColor(Vector3 point)
+        {
+            return Vector3.Zero;
+        }
+
+        #endregion
+    }
+}
